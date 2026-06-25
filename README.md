@@ -1,91 +1,52 @@
-<!-- BANNER: Replace the image below with your own banner (recommended: 1280x400px) -->
-<!-- You can create one for free at canva.com or figma.com -->
-<div align="center">
-  <img src="https://your-banner-image-url.png" alt="Daniel Chura — Backend & Fullstack Developer" width="100%" />
-</div>
+<a href="https://danielchura.vercel.app/" target="_blank">
+  <table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none; margin-bottom: 16px;">
+    <tr style="border: none; background: transparent;">
+      <td style="border: none; padding: 0;">
+        <img src="https://github.com/user-attachments/assets/f4559095-cff5-425b-9772-53f8906b8d0d" alt="Daniel Chura Portfolio Banner" width="100%" style="display: block; border: none;" />
+      </td>
+    </tr>
+  </table>
+</a>
 
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none; margin-bottom: 16px;">
+  <tr style="border: none; background: transparent;">
+    <td width="55%" valign="top" style="border: none; padding: 0;">
+      <h3 style="color: #0055ff; font-size: 18px; margin-top: 0; margin-bottom: 8px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">Sobre mí</h3>
+      <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 8px 0;">
+        Ingeniero de software enfocado en desarrollo full-stack con experiencia construyendo sistemas distribuidos y APIs robustas en Java y TypeScript. Mi stack backend se centra en arquitecturas de microservicios utilizando Spring Boot, Spring Cloud y NestJS, complementado con bases de datos SQL y NoSQL (PostgreSQL, MongoDB).
+      </p>
+      <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; margin: 0 0 8px 0;">
+        Tengo un fuerte compromiso con la calidad de software a través de prácticas de Test-Driven Development (TDD) y pruebas de integración continuas. En el frontend, domino herramientas modernas como React, Next.js y Angular (v22) para construir interfaces eficientes y altamente interactivas.
+      </p>
+      <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-size: 14px; line-height: 1.5; margin: 0;">
+        Cómodo gestionando el ciclo completo de entrega de software, desde el diseño de la API hasta la containerización mediante Docker.
+      </p>
+    </td>
+    <td width="5%" style="border: none; padding: 0;"></td>
+    <td width="40%" valign="top" align="center" style="border: none; padding: 0;">
+      <h3 style="color: #0055ff; font-size: 18px; margin-top: 0; margin-bottom: 12px; font-weight: 600; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; text-align: center;">Tecnologías</h3>
+      <img src="https://skillicons.dev/icons?i=java,spring,ts,react,nextjs,angular,postgres,mongodb,mysql,supabase,docker,git,postman,linux,rabbitmq,nestjs&perline=4" alt="My Skills Grid" />
+    </td>
+  </tr>
+</table>
 <br />
+<hr style="border: none; border-top: 1px solid #0055ff; margin: 16px 0; opacity: 0.3;" />
 
-<div align="center">
-  <h1>Daniel Chura</h1>
-  <p>Backend engineer focused on scalable systems and clean architecture.<br/>Specializing in Java/Spring Boot microservices and TypeScript fullstack applications.</p>
-</div>
-
-<br />
-
----
-
-## About
-
-I build reliable, production-ready software with a focus on distributed systems and API design.
-My work spans backend microservice architectures using Java and Spring Cloud, to modern frontend applications built with TypeScript and React.
-
-I care about writing code that is testable, maintainable, and easy to reason about — TDD is a core part of how I work.
-
----
-
-## Tech stack
-
-**Backend**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-
-**Frontend / Fullstack**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-
-**Infrastructure & Tools**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
-![TDD](https://img.shields.io/badge/TDD-4A154B?style=flat-square&logo=testinglibrary&logoColor=white)
-
-<!-- Add more as needed: PostgreSQL, MySQL, Redis, Kafka, RabbitMQ, AWS, etc. -->
-
----
-
-## Projects
-
-| Repository | Description | Stack |
-|---|---|---|
-| [ecommerce-microservices](https://github.com/danielchura/ecommerce-microservices) | Microservice architecture for a full e-commerce platform | Java · Spring Cloud · Docker |
-| [SpringCloud-EmployeeSystem](https://github.com/danielchura/SpringCloud-EmployeeSystem) | Employee management system with Spring Cloud service discovery | Java · Spring Boot · Spring Cloud |
-| [jackson-api](https://github.com/danielchura/jackson-api) | REST API with Jackson integration | Java · Spring Boot |
-| [jackson-app](https://github.com/danielchura/jackson-app) | Frontend client for the Jackson API | TypeScript · React |
-| [microservices-superflights](https://github.com/danielchura/microservices-superflights) | Flight management platform built on microservices | Java · Spring Boot |
-| [cashcard-TDD](https://github.com/danielchura/cashcard-TDD) | Cash card application developed following TDD principles | Java · Spring Boot · JUnit |
-| [meteo-app](https://github.com/danielchura/meteo-app) | Weather application consuming public meteorological APIs | TypeScript · React |
-| [SpringMarket](https://github.com/danielchura/SpringMarket) | Marketplace application with Spring Boot backend | Java · Spring Boot |
-| [supacrud](https://github.com/danielchura/supacrud) | Full-stack CRUD application using Supabase as backend | TypeScript · Supabase |
-
----
-
-## GitHub stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=danielchura&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true" alt="Daniel's GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielchura&layout=compact&hide_border=true&theme=default&langs_count=6" alt="Top languages" />
-</div>
-
----
-
-## Contact
-
-<!-- Replace with your actual links -->
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/danielchura)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://yourportfolio.com)
-
----
-
-<div align="center">
-  <sub>Open to collaborations on backend systems, API design, and distributed architectures.</sub>
-</div>
+<table width="100%" cellpadding="0" cellspacing="0" border="0" style="border-collapse: collapse; border: none;">
+  <tr style="border: none; background: transparent;">
+    <td width="50%" align="center" valign="middle" style="border: none; padding: 0;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=danielchura&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true&icon_color=0055ff&title_color=0055ff&text_color=c9d1d9&bg_color=00000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=danielchura&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true&icon_color=0055ff&title_color=0055ff&text_color=24292f&bg_color=00000000" />
+        <img src="https://github-readme-stats.vercel.app/api?username=danielchura&show_icons=true&hide_border=true&theme=default&count_private=true&include_all_commits=true&icon_color=0055ff&title_color=0055ff&text_color=c9d1d9&bg_color=00000000" alt="GitHub stats" />
+      </picture>
+    </td>
+    <td width="50%" align="center" valign="middle" style="border: none; padding: 0;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielchura&layout=compact&hide_border=true&theme=default&langs_count=8&title_color=0055ff&text_color=c9d1d9&bg_color=00000000" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=danielchura&layout=compact&hide_border=true&theme=default&langs_count=8&title_color=0055ff&text_color=24292f&bg_color=00000000" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielchura&layout=compact&hide_border=true&theme=default&langs_count=8&title_color=0055ff&text_color=c9d1d9&bg_color=00000000" alt="Top languages" />
+      </picture>
+    </td>
+  </tr>
+</table>
